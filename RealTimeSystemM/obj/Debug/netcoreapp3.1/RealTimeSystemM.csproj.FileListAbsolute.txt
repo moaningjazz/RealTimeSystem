@@ -1,0 +1,25 @@
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.exe
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.deps.json
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.runtimeconfig.json
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.runtimeconfig.dev.json
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.dll
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.pdb
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.csprojAssemblyReference.cache
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.AssemblyInfoInputs.cache
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.AssemblyInfo.cs
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.csproj.CoreCompileInputs.cache
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.dll
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.pdb
+C:\Users\arian\source\repos\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.genruntimeconfig.cache
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.exe
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.deps.json
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.runtimeconfig.json
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.runtimeconfig.dev.json
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.dll
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\bin\Debug\netcoreapp3.1\RealTimeSystemM.pdb
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.AssemblyInfoInputs.cache
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.AssemblyInfo.cs
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.csproj.CoreCompileInputs.cache
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.dll
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.pdb
+E:\1\study\441 2 semestr\системыреальноговремени\RealTimeSystemM\RealTimeSystemM\obj\Debug\netcoreapp3.1\RealTimeSystemM.genruntimeconfig.cache
